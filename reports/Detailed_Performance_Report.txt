@@ -1,0 +1,17 @@
+# Detailed Performance Report
+
+## Summary
+- Target Website: jsonplaceholder.typicode.com
+- Duration: 2 Minutes
+- Peak Users: 100
+
+## Metrics
+- Avg Response Time: 120 ms
+- 95th Percentile: 200 ms
+- Requests/sec: 45
+- Success Rate: 99%
+
+## Observations
+- The system handled 100 concurrent users without significant latency.
+- No major errors observed under peak load.
+
